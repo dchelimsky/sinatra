@@ -13,7 +13,7 @@ Sinatra a DSL for quickly creating web-applications in Ruby with minimal effort.
     'Hello world!'
   end
 
-Ruby this as <tt>ruby myapp.rb</tt> and view at <tt>http://localhost:4567</tt>
+Ruby this as <tt>ruby myapp.rb</tt> and view at <tt>http://localhost:5678</tt>
 
 = RESTful
 
@@ -419,7 +419,7 @@ Run your sinatra file like:
 Options are:
 
   -h # help
-  -p # set the port (default is 4567)
+  -p # set the port (default is 5678)
   -e # set the environment (default is development)
   -x # turn on the mutex lock (default is off)
 

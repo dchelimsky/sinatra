@@ -842,7 +842,7 @@ module Sinatra
       root = File.expand_path(File.dirname($0))
       @@default_options ||= {
         :run => true,
-        :port => 4567,
+        :port => 5678,
         :env => :development,
         :root => root,
         :views => root + '/views',
